@@ -1,5 +1,0 @@
-attendance,study_hours,previous_marks,assignment_completed,result
-85,4,70,1,1
-60,2,45,0,0
-90,6,80,1,1
-50,1,40,0,0
